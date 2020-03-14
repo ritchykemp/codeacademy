@@ -1,7 +1,3 @@
-p {
-    font-family: Arial;
-}
-
 h1 {
     color: maroon;
 }
@@ -10,8 +6,10 @@ h2.destination {
     font-family: cursive;
 }
 
-h5 {
+h5,
+p {
     color: rebeccapurple !important;
+    font-family: Georgia;
 }
 
 .title {
